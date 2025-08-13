@@ -81,6 +81,3 @@ python main.py
 MIT License — feel free to use, modify, and share.
 
 ---
-
-If you want, I can also make a **GIF of your Tkinter gameplay** so it looks more engaging on GitHub. That usually helps people instantly see what the project does.
-Do you want me to prepare that?
